@@ -4,6 +4,7 @@ Vault Forge sample that gets an Inventor Assembly or Part from Vault and uploads
 This an updated version of the previous VaultBrowserSample_Forge_Demo. 
 
 Some key highlights of this example:
+
 -- This example does a read only sign-in, so the clmloader.dll is not required.
 
 -- Is not really based off the Vault Browser sample in the SDK, contains lesser code. 
