@@ -5,7 +5,7 @@ This an updated version of the previous VaultBrowserSample_Forge_Demo.
 
 Some key highlights of this example:
 
--- This example does a read only sign-in, so the clmloader.dll is not required.
+-- This example does a read only sign-in into Vault, hence does not consume a Vault License.
 
 -- Is not really based off the Vault Browser sample in the SDK, contains lesser code. 
 
