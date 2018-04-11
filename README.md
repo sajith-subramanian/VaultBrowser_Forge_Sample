@@ -11,7 +11,7 @@ Some key highlights of this example:
 
 -- No longer uses Apprentice Server so no need to have Inventor View / Inventor installed.
 
--- You will need to change the code so that it logs into your vault. (Line #19 in Program.cs).
+-- You will need to change the code so that it logs into your Vault. (Line #19 in Program.cs).
 
 -- The example creates the following 3 folders in the user's temp directory:
    - Vault_Forge_Downloaded_Files
