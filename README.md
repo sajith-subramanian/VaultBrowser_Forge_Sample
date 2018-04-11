@@ -1,5 +1,6 @@
 # VaultBrowser_Forge_Sample
-Vault Forge sample that gets an Inventor Assembly or Part from Vault and uploads it to a bucket
+Vault Forge sample that gets an Inventor Assembly or Part from Vault and uploads it to a bucket.
+
 This an updated version of the previous VaultBrowserSample_Forge_Demo. 
 
 Some key highlights of this example:
